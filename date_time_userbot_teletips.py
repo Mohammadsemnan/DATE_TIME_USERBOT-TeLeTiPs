@@ -1,4 +1,4 @@
-#Copyright ©️ 2021 TeLe TiPs. All Rights Reserved
+#Copyright ©️ 2021 TeLe TiPs. All Rights Reserved.
 #You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
 # ##Credits - [DATE_TIME Telegram userbot by TeLe TiPs] (https://github.com/teletips/DATE_TIME_USERBOT-TeLeTiPs)
 
